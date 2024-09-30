@@ -29,3 +29,4 @@ Open the Jupyter Notebook
 jupyter notebook src/RL_stock_price.ipynb
 
 
+<img width="989" alt="Screenshot 2024-09-30 at 11 50 00 PM" src="https://github.com/user-attachments/assets/903abef3-a924-4be4-953f-f734128b19e0">
